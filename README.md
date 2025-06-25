@@ -1,5 +1,5 @@
 # dataset_generator
-This script generates a new synthetic dataset that closely resembles an original dataset using statistical sampling techniques. The generated data maintains similar distributional properties for both numerical and categorical features.
+This script generates a new synthetic dataset that closely resembles original dataset using statistical sampling techniques. The generated data maintains similar distributional properties for both numerical and categorical features.
 
 The code assumes that the continuous variables (Value1 and Value2) in the original dataset follow a normal distribution.
 
